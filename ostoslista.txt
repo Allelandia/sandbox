@@ -1,6 +1,6 @@
 Uusi Auto 
 Mikä Mauto
-Kauto
+Kauto on hieno!
 Rauto
 Pakara
 Git on paska!
