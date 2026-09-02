@@ -1,4 +1,4 @@
-leipä
-apua
-maito
-auto
+Auto 
+Mauto
+Kauto
+Rauto
